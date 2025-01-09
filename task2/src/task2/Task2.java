@@ -6,6 +6,7 @@ public class Task2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hiiii....");
+		System.out.println("How are you?");
 
 	}
 
