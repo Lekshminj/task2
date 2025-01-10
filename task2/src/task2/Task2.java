@@ -7,7 +7,7 @@ public class Task2 {
 		
 		System.out.println("Hiiii....");
 		System.out.println("How are you?");
-
+		System.outprintln("hai..");
 	}
 
 }
